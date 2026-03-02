@@ -3,7 +3,7 @@
 
 This project is part of my university for Object-Oriented Programming (OOP). It simulates a simple Learning Management System (LMS) for BCI Campus, applying key OOP principles.
 
-🔑 Features
+# Key Features
 
 ## Student & Course Management
 
