@@ -39,4 +39,13 @@ findaverage.py → Course result calculation logic <br>
 findSalary.py → Salary calculation logic <br>
 main.py → Runs the system <br>
 
+## 👩‍💻 Author
+
+**Ann Sayuri** 
+- GitHub: [@annsayuri](https://github.com/annsayuri) 🐙
+
+---
 ⚡ This project demonstrates real-world OOP concepts through a university campus LMS model, making it a foundation for larger-scale academic systems.
+
+
+⭐ **If you like this project, don't forget to give it a star!** ⭐
